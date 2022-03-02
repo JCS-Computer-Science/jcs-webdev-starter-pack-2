@@ -6,7 +6,7 @@
 	"author": "Joe Wilson",
 	"publisher": "JCSCompSci",
 	"license": "MIT",
-	"icon": "./assets/RavenSquare.png",
+	"icon": "assets/RavenSquare.png",
 	"repository": {
 		"url": "https://github.com/JCS-Computer-Science/jcs-webdev-starter-pack-2"
 	},
