@@ -2,7 +2,15 @@
 	"name": "jcs-webdev-starter-pack-2",
 	"displayName": "JCS WebDev Starter Pack 2",
 	"description": "Get up and running in VSCode with useful extensions and settings",
-	"version": "0.0.1",
+	"version": "1.0.0",
+	"author": "Joe Wilson",
+	"publisher": "JCSCompSci",
+	"license": "MIT",
+	"icon": "./assets/RavenSquare.png",
+	"repository": {
+		"url": "https://github.com/JCS-Computer-Science/jcs-webdev-starter-pack-2"
+	},
+	"homepage": "https://github.com/JCS-Computer-Science/jcs-webdev-starter-pack-2",
 	"engines": {
 		"vscode": "^1.64.0"
 	},
